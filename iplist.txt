@@ -1,0 +1,9 @@
+#IPList.txt
+#empty lines and lines starting with # are ignored
+
+#several Options to enter IP adresses
+#1. : single IPAdress : eg. 10.10.10.10
+#2. : iprange 10.10.10.10-10.10.10.20
+#3. : Network with specified hosts = 3 Oktets of Network followed by the hosts adresses, separated by Commas (/24 only)
+
+192.168.5.:1,10,11,50,55,100,254
